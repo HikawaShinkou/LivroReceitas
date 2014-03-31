@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3CE4F616-A978-4E40-B8E4-D6978889E9A3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LivroReceitas</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E4582EAA-F46D-45B6-B153-1C498BF34B75</key>
+		<string>https://github.com/HikawaShinkou/LivroReceitas.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LivroReceitas/LivroReceitas.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E4582EAA-F46D-45B6-B153-1C498BF34B75</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/HikawaShinkou/LivroReceitas.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E4582EAA-F46D-45B6-B153-1C498BF34B75</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E4582EAA-F46D-45B6-B153-1C498BF34B75</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LivroReceitas</string>
+		</dict>
+	</array>
+</dict>
+</plist>
